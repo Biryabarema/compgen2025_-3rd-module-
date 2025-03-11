@@ -1,6 +1,6 @@
 # compgen2025_-3rd-module-
-## The main objective of this module will be to introduce Multi-omics Data Integration Using Deep Learning approaches
-### This course was taught by BIMSB bioinformatics platform / Akalin Lab and can be found in full context at https://github.com/BIMSBbioinfo/compgen_course_2025_module3
+The main objective of this module will be to introduce Multi-omics Data Integration Using Deep Learning approaches
+## This course was taught by BIMSB bioinformatics platform / Akalin Lab and can be found in full context at https://github.com/BIMSBbioinfo/compgen_course_2025_module3
 ## The main learning goals:
 
 - Why we need multi-omics for cancer (disease) research?
